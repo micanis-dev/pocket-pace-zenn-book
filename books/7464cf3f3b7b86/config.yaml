@@ -1,0 +1,10 @@
+title: "生成AIを使わないWEBアプリケーション開発の備忘録 (独学)"
+summary: ""
+topics: []
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - introduction
+  - related_work
+  - feature-design
