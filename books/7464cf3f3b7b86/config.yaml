@@ -10,3 +10,6 @@ chapters:
   - feature-design
   - ui_design
   - env_build
+  - frontend_setup
+  - routing
+  - navigation_menu
