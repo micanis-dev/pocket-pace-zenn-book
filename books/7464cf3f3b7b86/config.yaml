@@ -13,3 +13,4 @@ chapters:
   - frontend_setup
   - routing
   - navigation_menu
+  - common_layout
